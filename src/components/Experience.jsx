@@ -51,7 +51,7 @@ export const Experience = () => {
           curvePoints[1].z
         ),
         subtitle: `Welcome to Wawatmos,
-Have a seat and enjoy the ride!`,
+Have a seat and enjoy the flight!`,
       },
       {
         cameraRailDist: 1.5,
