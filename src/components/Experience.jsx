@@ -50,7 +50,7 @@ export const Experience = () => {
           curvePoints[1].y,
           curvePoints[1].z
         ),
-        subtitle: `Welcome to Wawatmos,
+        subtitle: `Welcome to FlightPath360,
 Have a seat and enjoy the flight!`,
       },
       {
@@ -82,7 +82,7 @@ We have a wide range of beverages!`,
           curvePoints[4].z - 12
         ),
         title: "Movies",
-        subtitle: `We provide a large selection of medias, we highly recommend you Porco Rosso during the flight`,
+        subtitle: `We provide a large selection of medias, we highly recommend you Porco Rosso during the flight. ${<input>adsfadsf</input>}`,
       },
     ];
   }, []);

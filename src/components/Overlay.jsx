@@ -16,7 +16,7 @@ export const Overlay = () => {
       {progress === 100 && (
         <div className={`intro ${play ? "intro--disappear" : ""}`}>
           <h1 className="logo">
-            Flight view
+          FlightPath360
             <div className="spinner">
               {/* Plane SVG Spinner */}
               <svg

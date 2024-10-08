@@ -18,7 +18,7 @@ export function Airplane(props) {
   });
 
   return (
-    <group {...props} dispose={null}>
+    <group {...props} dispose={null} rotation-x={Math.PI / 2}>
       <mesh geometry={nodes.PUSHILIN_Plane_Circle000.geometry}>
         <meshStandardMaterial color="white" />
       </mesh>
